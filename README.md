@@ -1,3 +1,11 @@
 # Training
 
-Training for new joinees
+Training on GIT
+
+To understand the GIT concepts.
+
+
+
+
+
+
