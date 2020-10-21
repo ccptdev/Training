@@ -2,7 +2,7 @@
 
 
 Explaing git branch concepts
-nderstand the GIT concepts.
+understand the GIT concepts.
 
 
 
