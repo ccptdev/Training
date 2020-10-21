@@ -1,8 +1,8 @@
-# Training branch
+# Training br
 
-Training on GIT
 
-To understand the GIT concepts.
+Explaing git branch concepts
+nderstand the GIT concepts.
 
 
 
